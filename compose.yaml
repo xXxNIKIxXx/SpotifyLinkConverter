@@ -1,0 +1,7 @@
+version: '3'
+services:
+  spotify-link-converter:
+    build:
+      context: https://github.com/xXxNIKIxXx/SpotifyLinkConverter.git
+    volumes:
+      - PATH TO YOU CONFIG FILE:/app/config.json # Replace the first path with your config path

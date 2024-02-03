@@ -1,0 +1,12 @@
+{
+    "bot_token": "DISCORD_BOT_TOKEN",
+    "spotify_client_id": "SPOTIFY_CLIENT_ID",
+    "spotify_client_secret": "SPOTIFY_CLIENT_SECRET",
+    "max_message_lenght": 2000,
+    "num_processes": 16,
+    "split_string": "HOW TO APPEND MULTIPLE LINKS TO YOU PLAYLIST",
+    "music_bot_command_prefix": "DISCORD MUSIC BOT COMMAND PREFIX",
+    "music_bot_play_playlist_command": "DISCORD MUSIC BOT PLAY PLAYLIST COMMAND",
+    "music_bot_create_playlist_command": "DISCORD MUSIC BOT CREATE PLAYLIST COMMAND",
+    "music_bot_append_song_playlist_command": "DISCORD MUSIC BOT APPEND SONG TO PLAYLIST COMMAND"
+}
