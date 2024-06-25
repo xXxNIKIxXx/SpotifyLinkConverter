@@ -1,3 +1,4 @@
 spotipy==2.23.0
 youtube-search-python
 discord.py
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
