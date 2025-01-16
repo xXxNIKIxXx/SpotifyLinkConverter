@@ -1,3 +1,3 @@
-spotipy==2.23.0
+spotipy
 youtube-search-python
-discord.py
+discord
